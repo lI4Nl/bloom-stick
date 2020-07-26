@@ -1,4 +1,7 @@
 # Bloom-Stick
+
+[BloomStick(https://cercledujeuvideo.org/wp-content/uploads/2019/02/Bloom-Stick-Logo-280x280.png)](https://cercledujeuvideo.org/bloom-stick/)
+
 The Bloom Stick project is built around the Attract Mode software. 
 by Andrew Mickelson, distributed under license under the terms 
 of the GNU General Public License v3 or later.
