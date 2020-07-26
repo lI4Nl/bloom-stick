@@ -1,3 +1,4 @@
+[![N|Solid](https://cercledujeuvideo.org/wp-content/uploads/2019/02/Bloom-Stick-Logo-280x280.png)](https://cercledujeuvideo.org/bloom-stick/)
 # Bloom-Stick
 
 https://cercledujeuvideo.org/wp-content/uploads/2019/02/Bloom-Stick-Logo-280x280.png
