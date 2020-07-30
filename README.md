@@ -10,21 +10,21 @@ It is intended to be operated with a joystick or gamepad, making it ideal for an
 If you would like to learn more about Attract Mode, you can visit the official website of the project at the following address: <http://attractmode.org>.
 
 
-# Compiling
+## Compiling
 
-# Changelog
-
-For more details regarding the authors, click here //ADD LINK
-
-# Credits
-
-The Bloom Stick project was created and is maintained by
-
-Bloom Stick is also supported by the French association "Le Cercle du Jeu Vidéo". //ADD LINK
+## Changelog
 
 For more details regarding the authors, click here //ADD LINK
 
-# Licence
+## Credits
+
+The Bloom Stick project was created and maintained by I4ᥢ.
+
+Bloom Stick is also supported by the French association "Le Cercle du Jeu Vidéo".
+
+For more details regarding the authors, click here //ADD LINK
+
+## Licence
 
 Due to the multiplicity of licenses included in the project, Bloom Stick is non-profit, without any commercial purpose or affiliation with their respective rights holders. The project and the games that make it up cannot be sold or commercially distributed without the prior agreement of their authors.
 
