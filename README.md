@@ -8,16 +8,16 @@ Originally, Attract-Mode is a graphical user interface (frontend) developed for 
 
 ### Compiling
 
-The Bloom Stick project is a compilation of softwaresbuilt around precompiled binaries of Attract-Mode, no source code modification on the different software is made. 
+The Bloom Stick project is a compilation of softwares built around precompiled binaries of Attract-Mode, no source code modification on the different software is made. 
 (this is not the aim of the project).
 
 In order to comply with the terms of the GNU General Public License v3, see the links in the AUTHORS.md
 
 ### Changelog
 
-* 16/05/2020
-- Release of the v4 (see the section "Software used by Bloom Stick for more details)
-- Added game help for the following titles :
+16/05/2020
+* Release of the version 4 of Bloom Stick (see the section "Software used by Bloom Stick for more details)
+* Added game help for the following titles :
 	=> Battle for Wesnoth
 	=> Game Jam
 	=> Freedoom Phase 1&2
