@@ -172,4 +172,4 @@ Unless otherwise stated, the company names, logos, images, videos and trademarks
 
 Failure to comply with these provisions exposes the offender to legal action.
 
-For the details of each games and program licences see the [BSLICENCE.md](https://github.com/lI4Nl/bloom-stick/blob/master/LICENCE/BSLICENCE).
+For the details of each games and program licences see the [BSLICENCE.md](https://github.com/lI4Nl/bloom-stick/blob/master/LICENCE/BSLICENCE.md).
