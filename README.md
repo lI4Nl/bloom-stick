@@ -14,9 +14,6 @@ The Bloom Stick project is a compilation of softwares built around precompiled b
 In order to comply with the terms of the GNU General Public License v3, see the links in the AUTHORS.md
 
 
-
-
-
 ### Supported Games
 
 Version 4 (16/05/2020)
@@ -131,7 +128,35 @@ The Bloom Stick project was created by I4ᥢ.
 
 Bloom Stick is also supported by the French association [Le Cercle du Jeu Vidéo](https://cercledujeuvideo.org/bloom-stick/).
 
-For more details regarding the authors that made the project possible, see the [AUTHORS.md](ADD LINK) page.
+We wish to thank all the authors that made the Bloom Stick project possible:
+
+* Andrew Mickelson 
+	* [AttractMode](http://attractmode.org)
+	* [Cools (layout](https://github.com/mickelson/attract/tree/master/config/layouts/Cools)
+* Anuke 
+	* [Mindustry](https://github.com/Anuken/Mindustry)
+* Arcade Bliss
+	* [ArcadeBliss – Info Overload Edition (layout)](https://github.com/ArcadeBliss/AttractMode-Themes)
+* Neil Dodwell et David Dew en tant que Creative Reality
+	* Dreamweb
+* Fabian Greffrath
+	* Crispy Doom
+* Simon Howard & Mike Swanson
+	* Chocolate Doom
+	* FreeDoom Phase 1&2)
+* ID Software for allowing the distribution of the DOOM® source code
+* Kalcos
+	* ScummVM Portable)
+* Krzysztof Kowalczyk
+	* Sumatra PDF
+* Locomalito pour nous avoir autorisé à diffuser les 18 freewares de son site Internet
+* Machinimax (SumatraPDF WIP plugin pour AttractMode)
+* John Passfield, Steve Stamatiadis & Interactive Binary Illusions
+	* Flight of the Amazon Queen
+* Revolution Software
+	* Beneath A Steel Sky
+	* Lure of the Temptress
+* The SCUMMVM Team
 
 ### Licence
 
@@ -144,7 +169,7 @@ Failure to comply with these provisions exposes the offender to legal action.
 For more details regarding the authors that made the project possible, see the [LICENCE.md](ADD LINK) page.
 
 * The following software is subject to the GNU General Public License v3:
-- Attract Mode
+Attract Mode
 - FreeDoom Phase 1&2
 - Mindustry
 - ScummVM 
