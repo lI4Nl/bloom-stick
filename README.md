@@ -13,34 +13,9 @@ The Bloom Stick project is a compilation of softwares built around precompiled b
 
 In order to comply with the terms of the GNU General Public License v3, see the links in the AUTHORS.md
 
-### Changelog
 
-16/05/2020
-* Release of the version 4 of Bloom Stick (see the section "Software used by Bloom Stick for more details)
-* Added game help for the following titles :
-	=> Battle for Wesnoth
-	=> Game Jam
-	=> Freedoom Phase 1&2
-	=> Redspheres
-	=> Zneik
-- The "Help" function in the main menu is now functional.
-- The main menu now has a wheel to navigate between the different game categories
 
-* 26/01/2020
-- Release of the v3 (see the section "Software used by Bloom Stick for more details)
-- Adding a video and a custom output icon in the main menu
-- Added context-sensitive help for navigation in the main menu
-- Added Warzone 2100 User Manual
 
-* 26/10/2019
-- Release of the v2 (see section "Software used by Bloom Stick for more details)
-- Re-encoding of the different videos for the different games in a harmonized way
-- Addition of the graphic and video part of the 17 new games present
-- Addition of a contextual help for navigation in the sub-menu (The "Help" function is functional but the content is not yet available!).
-- Addition of a legal notice in the video introduction of the software
-
-* 18/08/2019
-- Release of v1 (see section "Software used by Bloom Stick for more details).
 
 ### Supported Games
 
@@ -145,6 +120,10 @@ Version 1 (18/08/2019) :
 
 * Games *
 - Flight of the Amazon Queen (French version under
+
+### Changelog
+
+For more details regarding the features and games added with the different versions of Bloom Stick, see the [CHANGELOG](.
 
 ### Credits
 
