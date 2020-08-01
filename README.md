@@ -160,11 +160,11 @@ We wish to thank all the authors that made the Bloom Stick project possible:
 * John Passfield, Steve Stamatiadis & Interactive Binary Illusions
 	* [Flight of the Amazon Queen](https://www.scummvm.org/games/)
 * [Revolution Software](https://revolution.co.uk/)
-	* [Beneath A Steel](https://www.scummvm.org/games/)
+	* [Beneath A Steel Sky](https://www.scummvm.org/games/)
 	* Broken Sword
 	* [Lure of the Temptress](https://www.scummvm.org/games/)
-* [The Mockingbird Software Team](http://manbitesshark.com/credits)html)
-* [The PortableApps Team](https://portableapps.com/about/team>
+* [The Mockingbird Software Team](http://manbitesshark.com/credits)
+* [The PortableApps Team](https://portableapps.com/about/team°
 * [The SCUMMVM Team](https://www.scummvm.org/credits)
 
 ## Licence
