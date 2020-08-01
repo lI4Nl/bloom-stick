@@ -164,7 +164,7 @@ We wish to thank all the authors that made the Bloom Stick project possible:
 	* Broken Sword
 	* [Lure of the Temptress](https://www.scummvm.org/games/)
 * [The Mockingbird Software Team](http://manbitesshark.com/credits)
-* [The PortableApps Team](https://portableapps.com/about/team°
+* [The PortableApps Team](https://portableapps.com/about/team)
 * [The SCUMMVM Team](https://www.scummvm.org/credits)
 
 ## Licence
