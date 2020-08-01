@@ -5,9 +5,18 @@ The Bloom Stick project is built around the [Attract-Mode](http://attractmode.or
 
 Originally, Attract-Mode is a graphical user interface (frontend) developed for Linux (x86, x86-64, ARM, Raspberry Pi), Mac OS X and Windows-based systems. It is optimized for run game emulators such as MAME, MESS and Nestopia, making it ideal for an arcade cabinet.
 
-### Supported Games
+## Installation
 
-Version 4 (16/05/2020)
+### Compiling
+
+The Bloom Stick project is a compilation of softwares built around precompiled binaries of Attract-Mode, no source code modification on the different software is made. 
+(this is not the aim of the project).
+
+If you wish to compile yourself any of the program listed, please refer to them individually.
+
+### Windows Build
+
+TO BE COMPLETED
 
 * Games
 
@@ -109,18 +118,12 @@ Version 1 (18/08/2019) :
 * Games *
 - Flight of the Amazon Queen (French version under
 
-### Compiling
 
-The Bloom Stick project is a compilation of softwares built around precompiled binaries of Attract-Mode, no source code modification on the different software is made. 
-(this is not the aim of the project).
-
-If you wish to compile yourself any of the program listed, please refer to them individually.
-
-### Changelog
+## Changelog
 
 For more details regarding the features and games added with the different versions of Bloom Stick, see the [CHANGELOG](https://github.com/lI4Nl/bloom-stick/blob/master/CHANGELOG.MD) page.
 
-### Credits
+## Credits
 
 The Bloom Stick project was created by I4ᥢ.
 
@@ -164,7 +167,7 @@ We wish to thank all the authors that made the Bloom Stick project possible:
 * [The PortableApps Team](https://portableapps.com/about/team>
 * [The SCUMMVM Team](https://www.scummvm.org/credits)
 
-### Licence
+## Licence
 
 Due to the multiplicity of licenses included in the project, Bloom Stick is non-profit, without any commercial purpose or affiliation with their respective rights holders. The project and the games that make it up cannot be sold or commercially distributed without the prior agreement of their authors.
 
