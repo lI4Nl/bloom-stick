@@ -138,25 +138,26 @@ We wish to thank all the authors that made the Bloom Stick project possible:
 * Arcade Bliss
 	* [ArcadeBliss – Info Overload Edition (layout)](https://github.com/ArcadeBliss/AttractMode-Themes)
 * Neil Dodwell et David Dew en tant que Creative Reality
-	* Dreamweb
+	* [Dreamweb](https://www.scummvm.org/games/)
 * Fabian Greffrath
-	* Crispy Doom
+	* [Crispy Doom](https://github.com/fabiangreffrath/crispy-doom)
 * Simon Howard & Mike Swanson
-	* Chocolate Doom
-	* FreeDoom Phase 1&2)
-* ID Software for allowing the distribution of the DOOM® source code
+	* [Chocolate Doom](ttps://www.chocolate-doom.org/wiki/index.php/About)
+	* [FreeDoom Phase 1&2](https://freedoom.github.io/)
+* ID Software for allowing the distribution of the [DOOM® source code](https://github.com/id-Software/DOOM)
 * Kalcos
-	* ScummVM Portable)
+	* [ScummVM Portable](https://sourceforge.net/projects/scummvm-portable/)
 * Krzysztof Kowalczyk
-	* Sumatra PDF
-* Locomalito pour nous avoir autorisé à diffuser les 18 freewares de son site Internet
-* Machinimax (SumatraPDF WIP plugin pour AttractMode)
+	* [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader.html)
+* Locomalito and his amazing [games](https://locomalito.com/)
+* Machinimax
+	* SumatraPDF WIP plugin for AttractMode
 * John Passfield, Steve Stamatiadis & Interactive Binary Illusions
-	* Flight of the Amazon Queen
-* Revolution Software
-	* Beneath A Steel Sky
-	* Lure of the Temptress
-* The SCUMMVM Team
+	* [Flight of the Amazon Queen](https://www.scummvm.org/games/)
+* [Revolution Software](https://revolution.co.uk/)
+	* [Beneath A Steel](https://www.scummvm.org/games/)
+	* [Lure of the Temptress](https://www.scummvm.org/games/)
+* [The SCUMMVM Team](https://www.scummvm.org/credits)
 
 ### Licence
 
