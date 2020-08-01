@@ -123,7 +123,7 @@ Version 1 (18/08/2019) :
 
 ### Changelog
 
-For more details regarding the features and games added with the different versions of Bloom Stick, see the [CHANGELOG](.
+For more details regarding the features and games added with the different versions of Bloom Stick, see the [CHANGELOG](https://github.com/lI4Nl/bloom-stick/blob/master/CHANGELOG.MD) page.
 
 ### Credits
 
@@ -140,6 +140,8 @@ Due to the multiplicity of licenses included in the project, Bloom Stick is non-
 Unless otherwise stated, the company names, logos, images, videos and trademarks cited on are the respective property of their authors and appear for information purposes.The use of Bloom Stick does not in any way grant a license or right to use any of these elements, and may not be used for any purpose other than that provided for by the individual licenses that compose it.
 
 Failure to comply with these provisions exposes the offender to legal action.
+
+For more details regarding the authors that made the project possible, see the [LICENCE.md](ADD LINK) page.
 
 * The following software is subject to the GNU General Public License v3:
 - Attract Mode
