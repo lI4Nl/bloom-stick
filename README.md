@@ -140,7 +140,7 @@ We wish to thank all the authors that made the Bloom Stick project possible:
 	* [ArcadeBliss – Info Overload Edition (layout)](https://github.com/ArcadeBliss/AttractMode-Themes)
 * [Banjo Software Team](http://www.drnostromo.com/hacx/page.php?content=credits)
 	* Hacx: Twitch 'n Kill
-* Neil Dodwell et David Dew en tant que Creative Reality
+* Neil Dodwell et David Dew as Creative Reality
 	* [Dreamweb](https://www.scummvm.org/games/)
 * Fabian Greffrath
 	* [Crispy Doom](https://github.com/fabiangreffrath/crispy-doom)
