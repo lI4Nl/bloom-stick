@@ -68,7 +68,7 @@
   * [Crispy Doom 5.5.2.0](http://latest.chocolate-doom.org/) ;
   * [Sumatra PDF 3.1.2](https://www.sumatrapdfreader.org/dl/SumatraPDF-3.1.2-64.zip).
 * Interfaces for Attract Mode (layouts) added:
-  * A modified version of [ArcadeBliss](https://github.com/ArcadeBliss/AttractMode-Themes) ;
+  * A modified version of [ArcadeBliss – Info Overload Edition](https://github.com/ArcadeBliss/AttractMode-Themes)
   * A modified version of [Cools](https://github.com/mickelson/attract-extra/tree/master/layouts/cools).
 * 4 games added:
   * [Flight of the Amazon Queen](https://www.scummvm.org/frs/extras/Flight%20of%20the%20Amazon%20Queen/FOTAQ_Fr_Talkie_1.0.zip)
