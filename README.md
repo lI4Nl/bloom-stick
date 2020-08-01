@@ -6,12 +6,7 @@ The Bloom Stick project is built around the [Attract-Mode](http://attractmode.or
 Originally, Attract-Mode is a graphical user interface (frontend) developed for Linux (x86, x86-64, ARM, Raspberry Pi), Mac OS X and Windows-based systems. It is optimized for run game emulators such as MAME, MESS and Nestopia, making it ideal for an arcade cabinet.
 
 
-### Compiling
 
-The Bloom Stick project is a compilation of softwares built around precompiled binaries of Attract-Mode, no source code modification on the different software is made. 
-(this is not the aim of the project).
-
-In order to comply with the terms of the GNU General Public License v3, see the links in the AUTHORS.md
 
 
 ### Supported Games
@@ -118,6 +113,11 @@ Version 1 (18/08/2019) :
 * Games *
 - Flight of the Amazon Queen (French version under
 
+### Compiling
+
+The Bloom Stick project is a compilation of softwares built around precompiled binaries of Attract-Mode, no source code modification on the different software is made. 
+(this is not the aim of the project).
+
 ### Changelog
 
 For more details regarding the features and games added with the different versions of Bloom Stick, see the [CHANGELOG](https://github.com/lI4Nl/bloom-stick/blob/master/CHANGELOG.MD) page.
@@ -137,6 +137,8 @@ We wish to thank all the authors that made the Bloom Stick project possible:
 	* [Mindustry](https://github.com/Anuken/Mindustry)
 * Arcade Bliss
 	* [ArcadeBliss – Info Overload Edition (layout)](https://github.com/ArcadeBliss/AttractMode-Themes)
+* [Banjo Software Team](http://www.drnostromo.com/hacx/page.php?content=credits)
+	* Hacx: Twitch 'n Kill
 * Neil Dodwell et David Dew en tant que Creative Reality
 	* [Dreamweb](https://www.scummvm.org/games/)
 * Fabian Greffrath
@@ -144,6 +146,8 @@ We wish to thank all the authors that made the Bloom Stick project possible:
 * Simon Howard & Mike Swanson
 	* [Chocolate Doom](ttps://www.chocolate-doom.org/wiki/index.php/About)
 	* [FreeDoom Phase 1&2](https://freedoom.github.io/)
+* Hursty March (Dwayne Hurst) 
+	* [Chromatic (layout)](https://www.youtube.com/watch?v=DCqdItZW9M0)
 * ID Software for allowing the distribution of the [DOOM® source code](https://github.com/id-Software/DOOM)
 * Kalcos
 	* [ScummVM Portable](https://sourceforge.net/projects/scummvm-portable/)
@@ -151,12 +155,15 @@ We wish to thank all the authors that made the Bloom Stick project possible:
 	* [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader.html)
 * Locomalito and his amazing [games](https://locomalito.com/)
 * Machinimax
-	* SumatraPDF WIP plugin for AttractMode
+	* [SumatraPDF WIP plugin for AttractMode](http://forum.attractmode.org/index.php?action=dlattach;topic=1927.0;attach=2055)
 * John Passfield, Steve Stamatiadis & Interactive Binary Illusions
 	* [Flight of the Amazon Queen](https://www.scummvm.org/games/)
 * [Revolution Software](https://revolution.co.uk/)
 	* [Beneath A Steel](https://www.scummvm.org/games/)
+	* Broken Sword
 	* [Lure of the Temptress](https://www.scummvm.org/games/)
+* [The Mockingbird Software Team](http://manbitesshark.com/credits)html)
+* [The PortableApps Team](https://portableapps.com/about/team>
 * [The SCUMMVM Team](https://www.scummvm.org/credits)
 
 ### Licence
@@ -166,8 +173,6 @@ Due to the multiplicity of licenses included in the project, Bloom Stick is non-
 Unless otherwise stated, the company names, logos, images, videos and trademarks cited on are the respective property of their authors and appear for information purposes.The use of Bloom Stick does not in any way grant a license or right to use any of these elements, and may not be used for any purpose other than that provided for by the individual licenses that compose it.
 
 Failure to comply with these provisions exposes the offender to legal action.
-
-For more details regarding the authors that made the project possible, see the [LICENCE.md](ADD LINK) page.
 
 * The following software is subject to the GNU General Public License v3:
 Attract Mode
