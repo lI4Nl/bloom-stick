@@ -12,23 +12,33 @@
 - The "Help" function in the main menu is now functional.
 - The main menu now has a wheel to navigate between the different game categories
 
+* Emulators and Utilities added:
+	*
 #### Version 3 (26-01-2020)
 
-* Release of the v3 (see the section "Software used by Bloom Stick for more details)
-* Adding a video and a custom output icon in the main menu
-* Added context-sensitive help for navigation in the main menu
-* Added Warzone 2100 User Manual
+* General
+	* Release of the v3 (see the section "Software used by Bloom Stick for more details)
+	* Adding a video and a custom output icon in the main menu
+	* Added context-sensitive help for navigation in the main menu
+	* Added Warzone 2100 User Manual
+
+
+* 5 new games added:
+	* [Dreamweb](https://www.scummvm.org/frs/extras/Dreamweb/dreamweb-cd-fr-1.1.zip) ;
+	* [FreeDoom Phase 1&2 (version 0.12.1)](https://github.com/freedoom/freedoom/releases/download/v0.12.1/freedoom-0.12.1.zip) ;
+	* [Hacx: Twitch ‘n Kill](http://www.drnostromo.com/hacx/files/hacx12.zip) ;
+	* [Mindustry](https://anuke.itch.io/mindustry) ;
+	* [Warzone 2100](https://sourceforge.net/projects/warzone2100)
 
 #### Version 2 (26-10-2019)
 
 * General
-  * Re-encoding of the different videos for the different games in a harmonized way
-  * Addition of the graphic and video part of the 17 new games present
-  * Addition of the contextual help feature in the sub-menu (functional not yet available!).
-  * Addition of a legal notice in the opening video
+  * Unique re-encoding configuration standard for the video added ;
+  * 17 new graphic and video material added ;
+  * Contextual help feature in the sub-menu added (functional but the content is not yet available!) ;
+  * Legal notice in the opening video added.
   
-* Emulators and Utilities added:
-* 4 Games added:
+* 19 new games added:
   * [8 Bit Killer](https://www.locomalito.com/juegos/8bit_killer.zip) ;
   * [Blokanoid](https://www.locomalito.com/juegos/Blokanoid.zip) ;
   * [Darkula](https://www.locomalito.com/juegos/Darkula.zip) ;
@@ -60,7 +70,7 @@
 * Interfaces for Attract Mode (layouts) added:
   * A modified version of [ArcadeBliss](https://github.com/ArcadeBliss/AttractMode-Themes) ;
   * A modified version of [Cools](https://github.com/mickelson/attract-extra/tree/master/layouts/cools).
-* 4 Games added:
+* 4 games added:
   * [Flight of the Amazon Queen](https://www.scummvm.org/frs/extras/Flight%20of%20the%20Amazon%20Queen/FOTAQ_Fr_Talkie_1.0.zip)
   * [Beneath A Steel Sky](https://www.scummvm.org/frs/extras/Beneath%20a%20Steel%20Sky/bass-cd-1.2.zip)
   * [Lure of the Temptress](https://www.scummvm.org/frs/extras/Lure%20of%20the%20Temptress/lure-fr-1.1.zip)
