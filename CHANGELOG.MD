@@ -2,26 +2,26 @@
 
 #### Version 4 (16-05-2020)
 
-* Release of the version 4 of Bloom Stick (see the section "Software used by Bloom Stick for more details)
-* Added game help for the following titles :
-	=> Battle for Wesnoth
-	=> Game Jam
-	=> Freedoom Phase 1&2
-	=> Redspheres
-	=> Zneik
-- The "Help" function in the main menu is now functional.
-- The main menu now has a wheel to navigate between the different game categories
-
+* General
+	* The "Help" function in the main menu is now fully functional ;
+	* Wheel for navigating between the different game categories added.
 * Emulators and Utilities added:
-	*
+	* [ScummVM 2.1.2.0](https://github.com/scummvm) ;
+	* [Crispy Doom 5.8.0.0](http://latest.chocolate-doom.org/).
+* Interfaces for Attract Mode (layouts) added:
+  * A modified version of [Chromatic](https://www.youtube.com/watch?v=DCqdItZW9M0) in replacement of Cools ;
+* 5 games added:
+	* [Battle for Wesnoth Portable](https://portableapps.com/apps/games/wesnoth_portable) ; 
+	* [Broken Sword 2.5](https://www.scummvm.org/frs/extras/Broken%20Sword%202.5/sword25-v1.0.zip) ;
+	* [Dráscula: The Vampire Strikes Back](https://www.scummvm.org/frs/extras/Drascula_%20The%20Vampire%20Strikes%20Back/drascula-int-1.0.zip) ;
+	* [REKKR](http://manbitesshark.com/downloads.html).
+	
 #### Version 3 (26-01-2020)
 
 * General
-	* Release of the v3 (see the section "Software used by Bloom Stick for more details)
-	* Adding a video and a custom output icon in the main menu
-	* Added context-sensitive help for navigation in the main menu
-	* Added Warzone 2100 User Manual
-
+	* Adding a video and a custom output icon in the main menu ; 
+	* Added context-sensitive help for navigation in the main menu ; 
+	* Added Warzone 2100 User Manual ;
 
 * 5 new games added:
 	* [Dreamweb](https://www.scummvm.org/frs/extras/Dreamweb/dreamweb-cd-fr-1.1.zip) ;
