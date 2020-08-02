@@ -9,12 +9,12 @@ Originally, Attract-Mode is a graphical user interface (frontend) developed for 
 
 ### Compiling
 
-The Bloom Stick project is a compilation of softwares built around precompiled binaries of Attract-Mode, no source code modification on the different software is made. 
+The Bloom Stick project is a compilation of software built around precompiled binaries of Attract-Mode, no source code modification on the different software is made. 
 (this is not the aim of the project).
 
 If you wish to compile yourself any of the program listed, please refer to them individually.
 
-### Windows Build (Clean Installation)
+### Custom Build (for Windows)
 
 To run the software and games in optimal conditions, Bloom Stick is tested on a mini PC like an Intel Compute Stick device)
 
@@ -120,7 +120,7 @@ Version 1 (18/08/2019) :
 * Games *
 - Flight of the Amazon Queen (French version under
 
-### Windows Build (Preinstalled version)
+### Precompiled Binaries (for Windows)
 
 #### Installation
 
@@ -138,9 +138,9 @@ To exit the program:
 
 #### Genre & Game Selection
 
-4. On the Home screen:
-* Select a game using the LEFT AND RIGHT ARROW keys (or the mousewheel) and press the SELECTION key.
-* For help, use the MIDDLEMOUSE button.
+4. On the Home screen/subgenre menu:
+* Select a game/genre using the LEFT AND RIGHT ARROW keys (or the mousewheel) and press the SELECTION key.
+* For help/how to play, use the MIDDLEMOUSE button on the selected game/genre.
 
 To access the setup menu, press the TAB key.
 
