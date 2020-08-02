@@ -14,7 +14,9 @@ The Bloom Stick project is a compilation of softwares built around precompiled b
 
 If you wish to compile yourself any of the program listed, please refer to them individually.
 
-### Windows Build
+### Windows Build (Clean Installation)
+
+To run the software and games in optimal conditions, Bloom Stick is tested on a mini PC like an Intel Compute Stick device)
 
 TO BE COMPLETED
 
@@ -117,6 +119,36 @@ Version 1 (18/08/2019) :
 
 * Games *
 - Flight of the Amazon Queen (French version under
+
+### Windows Build (Preinstalled version)
+
+#### Installation
+
+1. Download the archive following [this link](http://www.mediafire.com/folder/u8hx12xaumaj2/Bloom_Stick).
+
+2. Extract the archive C:/AttractMode with software like [7zip](https://www.7-zip.org/).
+
+#### Start
+
+3. In C:/AttractMode, run the "attract.exe" file.
+
+To exit the program:
+* Press the BACK key (by default the ESC key or the RIGHT CLICK of the mouse).
+* Select YES by pressing the SELECTION key (by default the ENTER key or LEFT CLICK of the mouse).
+
+#### Genre & Game Selection
+
+4. On the Home screen:
+* Select a game using the LEFT AND RIGHT ARROW keys (or the mousewheel) and press the SELECTION key.
+* For help, use the MIDDLEMOUSE button.
+
+To access the setup menu, press the TAB key.
+
+#### Play !
+
+5. On the game screen, select the desired game with the same commands and then start the game by pressing the SELECTION key.
+
+To exit the game, press the RETURN button.
 
 
 ## Changelog
