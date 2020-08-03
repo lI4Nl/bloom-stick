@@ -5,7 +5,9 @@ The Bloom Stick project is built around the [Attract-Mode](http://attractmode.or
 
 Originally, Attract-Mode is a graphical user interface (frontend) developed for Linux (x86, x86-64, ARM, Raspberry Pi), Mac OS X and Windows-based systems. It is optimized for run game emulators such as MAME, MESS and Nestopia, making it ideal for an arcade cabinet.
 
-To run the software and games in optimal conditions, Bloom Stick is tested on a mini PC like an Intel Compute Stick device.
+As the feature is not yet available, Bloom Stick should be fully portable in the future and be executed on any device such as a USB stick.
+
+To run the software and games in optimal conditions, Bloom Stick is tested on a mini PC device like an Intel Compute Stick device.
 
 ## Installation
 
@@ -18,56 +20,61 @@ If you wish to compile yourself any of the program listed, please refer to them 
 
 ### Custom Build (for Windows)
 
+The following software and games need to be download and install in the directory.
 
 | SOFTWARE | SOURCE | WHERE TO INSTALL|
 | ------ | ------ | --------------- |
-| Attract-Mode | https://github.com/mickelson/attract/releases/download/v2.6.1/attract-v2.6.1-win32.zip |
-|		 |https://github.com/mickelson/attract/releases/download/v2.6.1/attract-v2.6.1-win64.zip |
-| Attract-Mode A modified version of ArcadeBliss (layout) |  |
-| Attract-Mode A modified version of Chromatic (layout) | [plugins/googledrive/README.md][PlGd] |
-| Crispy Doom | [plugins/onedrive/README.md][PlOd] |
-| ScummVM | [plugins/medium/README.md][PlMe] |
-| Sumatra PDF | [plugins/googleanalytics/README.md][PlGa] |
+| Attract-Mode | https://github.com/mickelson/attract/releases/download/v2.6.1/attract-v2.6.1-win32.zip | C:/AttractMode
+|	or	 |https://github.com/mickelson/attract/releases/download/v2.6.1/attract-v2.6.1-win64.zip | C:/AttractMode
+| Attract-Mode - A modified version of ArcadeBliss – Info Overload Edition (layout) | Included in the release | C:/AttractMode\layouts
+| Attract-Mode - A modified version of Chromatic (layout) | Included in the release | C:/AttractMode\layouts
+| Crispy Doom | http://latest.chocolate-doom.org/ |C:/AttractMode
+| ScummVM | https://www.scummvm.org/frs/scummvm/2.1.2/scummvm-2.1.2-win32.zip | C:/AttractMode
+|     or  | https://www.scummvm.org/frs/scummvm/2.1.2/scummvm-2.1.2-win32-x86_64.zip | C:/AttractMode
+| Sumatra PDF | https://www.sumatrapdfreader.org/dl2/SumatraPDF-3.2.zip | C:/AttractMode
+|     or  | https://www.sumatrapdfreader.org/dl2/SumatraPDF-3.2-64.zip | C:/AttractMode
+| SumatraPDF WIP plugin for AttractMode | http://forum.attractmode.org/index.php?action=dlattach;topic=1927.0;attach=2055 | C:/AttractMode
+
+| VIDEO CONTENT | SOURCE | WHERE TO INSTALL|
+| ------ | ------ | --------------- |
 
 
 | GAMES | SOURCE | WHERE TO INSTALL|
 | ------ | ------ | --------------- |
-| 8bit Killer | https://www.locomalito.com/juegos/8bit_killer.zip |
-| Battle for Wesnoth | https://portableapps.com/apps/games/wesnoth_portable |
-| Beneath a Steel Sky | |
-| Blokanoid | https://www.locomalito.com/juegos/Blokanoid.zip |
-| Broken Sword 2.5 - The Return of the Knights of the Temple | https://www.scummvm.org/frs/extras/Broken%20Sword%202.5/sword25-v1.0.zip |
-| Darkula | * https://www.locomalito.com/juegos/Darkula.zip |
-| Drascula | https://www.scummvm.org/frs/extras/Drascula_%20The%20Vampire%20Strikes%20Back/drascula-int-1.0.zip * https://www.scummvm.org/frs/extras/Drascula_%20The%20Vampire%20Strikes%20Back/drascula-audio-2.0.zip| |
-| Dreamweb | https://www.scummvm.org/frs/extras/Dreamweb/dreamweb-cd-fr-1.1.zip |
-| Endless Forms Most Beautiful | https://www.locomalito.com/juegos/EFMB.zip |
-| FreeDoom Phase 1&2 | https://github.com/freedoom/freedoom/releases/download/v0.12.1/freedoom-0.12.1.zip |
-| Game Jam| https://www.locomalito.com/juegos/Game_Jam.zip |  |
-| Gort Ultimatum |  |
-| Gaurodan | https://www.locomalito.com/juegos/Gaurodan_1_1.zip  |
-| Gort Ultimatum | https://www.locomalito.com/juegos/Gort_Ultimatum.zip |
-| Hacx: Twitch 'n Kill | http://www.drnostromo.com/hacx/files/hacx12.zip |
-| Hydorah | https://www.locomalito.com/juegos/Hydorah_1_1.zip |
-| L'Abbaye des Morts | https://www.locomalito.com/juegos/Abbaye_des_morts_1_2.zip |
-| Maldita Castilla | https://www.locomalito.com/juegos/Maldita_Castilla_1_1.zip |
-| Maniac Aracs | https://www.locomalito.com/juegos/Maniac_Aracs.zip |
-| Mindustry | https://github.com/Anuken/Mindustry |
-| Redspheres | https://www.locomalito.com/juegos/RedSpheres.zip | 
-| REKKR | http://manbitesshark.com/downloads.html | |
-| Super Ninja Julia | https://www.locomalito.com/juegos/Super_Ninja_Julia.zip |
-| The Curse of Issyos | https://www.locomalito.com/juegos/Curse_of_Issyos.zip |
-| Verminest | https://www.locomalito.com/juegos/Verminest.zip |
-| Verminian Trap | https://www.locomalito.com/juegos/Verminian_Trap_1_1.zip |
-| Viriax | https://www.locomalito.com/juegos/Viriax_1_1.zip |
-| Warzone 2100 | https://sourceforge.net/projects/warzone2100 |
-| Zneik | https://www.locomalito.com/juegos/Zneik.zip |
-
+| 8bit Killer | https://www.locomalito.com/juegos/8bit_killer.zip | C:\AttractMode\emulators
+| Battle for Wesnoth | https://portableapps.com/apps/games/wesnoth_portable | C:\AttractMode\emulators
+| Beneath a Steel Sky | https://www.scummvm.org/frs/extras/Beneath%20a%20Steel%20Sky/bass-cd-1.2.zip | C:\AttractMode\emulators
+| Blokanoid | https://www.locomalito.com/juegos/Blokanoid.zip | C:\AttractMode\emulators
+| Broken Sword 2.5 - The Return of the Knights of the Temple | https://www.scummvm.org/frs/extras/Broken%20Sword%202.5/sword25-v1.0.zip | C:\AttractMode\emulators
+| Darkula | https://www.locomalito.com/juegos/Darkula.zip | C:\AttractMode\emulators
+| Dráscula: The Vampire Strikes Back | https://www.scummvm.org/frs/extras/Drascula_%20The%20Vampire%20Strikes%20Back/drascula-int-1.0.zip * | C:\AttractMode\emulators
+| Dreamweb | https://www.scummvm.org/frs/extras/Dreamweb/dreamweb-cd-fr-1.1.zip | C:\AttractMode\emulators
+| Endless Forms Most Beautiful | https://www.locomalito.com/juegos/EFMB.zip | C:\AttractMode\emulators
+| FreeDoom Phase 1&2 | https://github.com/freedoom/freedoom/releases | C:\AttractMode\emulators
+| Game Jam| https://www.locomalito.com/juegos/Game_Jam.zip | C:\AttractMode\emulators
+| Gaurodan | https://www.locomalito.com/juegos/Gaurodan_1_1.zip  | C:\AttractMode\emulators
+| Gort Ultimatum | https://www.locomalito.com/juegos/Gort_Ultimatum.zip | C:\AttractMode\emulators
+| Hacx: Twitch 'n Kill | http://www.drnostromo.com/hacx/files/hacx12.zip | C:\AttractMode\emulators
+| Hydorah | https://www.locomalito.com/juegos/Hydorah_1_1.zip | C:\AttractMode\emulators
+| L'Abbaye des Morts | https://www.locomalito.com/juegos/Abbaye_des_morts_1_2.zip | C:\AttractMode\emulators
+| Maldita Castilla | https://www.locomalito.com/juegos/Maldita_Castilla_1_1.zip | C:\AttractMode\emulators
+| Maniac Aracs | https://www.locomalito.com/juegos/Maniac_Aracs.zip | C:\AttractMode\emulators
+| Mindustry | https://github.com/Anuken/Mindustry | C:\AttractMode\emulators
+| Redspheres | https://www.locomalito.com/juegos/RedSpheres.zip | C:\AttractMode\emulators
+| REKKR | http://manbitesshark.com/downloads.html | C:\AttractMode\emulators
+| Super Ninja Julia | https://www.locomalito.com/juegos/Super_Ninja_Julia.zip | C:\AttractMode\emulators
+| The Curse of Issyos | https://www.locomalito.com/juegos/Curse_of_Issyos.zip | C:\AttractMode\emulators
+| Verminest | https://www.locomalito.com/juegos/Verminest.zip | C:\AttractMode\emulators
+| Verminian Trap | https://www.locomalito.com/juegos/Verminian_Trap_1_1.zip | C:\AttractMode\emulators
+| Viriax | https://www.locomalito.com/juegos/Viriax_1_1.zip | C:\AttractMode\emulators
+| Warzone 2100 | https://sourceforge.net/projects/warzone2100 | C:\AttractMode\emulators
+| Zneik | https://www.locomalito.com/juegos/Zneik.zip | C:\AttractMode\emulators
 
 ### Precompiled Binaries (for Windows)
 
 #### Installation
 
-1. Download the archive following [this link](http://www.mediafire.com/folder/u8hx12xaumaj2/Bloom_Stick).
+1. Download the archive following [at the following address](http://www.mediafire.com/folder/u8hx12xaumaj2/Bloom_Stick).
 
 2. Extract the archive C:/AttractMode with software like [7zip](https://www.7-zip.org/).
 
