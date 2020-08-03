@@ -5,18 +5,21 @@ The Bloom Stick project is built around the [Attract-Mode](http://attractmode.or
 
 Originally, Attract-Mode is a graphical user interface (frontend) developed for Linux (x86, x86-64, ARM, Raspberry Pi), Mac OS X and Windows-based systems. It is optimized for run game emulators such as MAME, MESS and Nestopia, making it ideal for an arcade cabinet.
 
+To run the software and games in optimal conditions, Bloom Stick is tested on a mini PC like an Intel Compute Stick device.
+
 ## Installation
 
 ### Compiling
 
 The Bloom Stick project is a compilation of software built around precompiled binaries of Attract-Mode, no source code modification on the different software is made. 
-(this is not the aim of the project).
+(these are not the objectives of the project).
 
 If you wish to compile yourself any of the program listed, please refer to them individually.
 
 ### Custom Build (for Windows)
 
-To run the software and games in optimal conditions, Bloom Stick is tested on a mini PC like an Intel Compute Stick device)
+
+
 
 TO BE COMPLETED
 
