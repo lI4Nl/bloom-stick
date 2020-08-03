@@ -31,27 +31,34 @@ If you wish to compile yourself any of the program listed, please refer to them 
 
 | GAMES | SOURCE | WHERE TO INSTALL|
 | ------ | ------ | --------------- |
-| 8bit Killer | |
+| 8bit Killer | https://www.locomalito.com/juegos/8bit_killer.zip |
 | Battle for Wesnoth | |
 | Beneath a Steel Sky | |
-| Broken Sword 2.5 - The Return of the Knights of the Temple |
-| Blokanoid |  |
-| Darkula | |
-| Endless Forms Most Beautiful | ] |
-| Game Ja| Gort Ultimatum |m |  |
-| Gaurodan |  |
-| Gort Ultimatum | |
-| Hydorah | |
-| L'Abbaye des Morts | |
-| Maldita Castilla | |
-| Maniac Aracs | |
-| Redspheres | ||
-| REKKR | ||
-| Super Ninja Julia | |
-| The Curse of Issyos | |
-| Verminest | |
-| Verminian Trap | |
+| Blokanoid | https://www.locomalito.com/juegos/Blokanoid.zip |
+| Broken Sword 2.5 - The Return of the Knights of the Temple | https://www.scummvm.org/frs/extras/Broken%20Sword%202.5/sword25-v1.0.zip |
+| Darkula | * https://www.locomalito.com/juegos/Darkula.zip |
+| Drascula | https://www.scummvm.org/frs/extras/Drascula_%20The%20Vampire%20Strikes%20Back/drascula-int-1.0.zip * https://www.scummvm.org/frs/extras/Drascula_%20The%20Vampire%20Strikes%20Back/drascula-audio-2.0.zip| |
+| Dreamweb | https://www.scummvm.org/frs/extras/Dreamweb/dreamweb-cd-fr-1.1.zip |
+| Endless Forms Most Beautiful | https://www.locomalito.com/juegos/EFMB.zip |
+| FreeDoom Phase 1&2 | https://github.com/freedoom/freedoom/releases/download/v0.12.1/freedoom-0.12.1.zip |
+| Game Jam| https://www.locomalito.com/juegos/Game_Jam.zip |  |
+| Gort Ultimatum |  |
+| Gaurodan | https://www.locomalito.com/juegos/Gaurodan_1_1.zip  |
+| Gort Ultimatum | https://www.locomalito.com/juegos/Gort_Ultimatum.zip |
+| Hacx: Twitch 'n Kill | http://www.drnostromo.com/hacx/files/hacx12.zip |
+| Hydorah | https://www.locomalito.com/juegos/Hydorah_1_1.zip |
+| L'Abbaye des Morts | https://www.locomalito.com/juegos/Abbaye_des_morts_1_2.zip |
+| Maldita Castilla | https://www.locomalito.com/juegos/Maldita_Castilla_1_1.zip |
+| Maniac Aracs | https://www.locomalito.com/juegos/Maniac_Aracs.zip |
+| Mindustry | https://github.com/Anuken/Mindustry |
+| Redspheres | https://www.locomalito.com/juegos/RedSpheres.zip | 
+| REKKR | http://manbitesshark.com/downloads.html | |
+| Super Ninja Julia | https://www.locomalito.com/juegos/Super_Ninja_Julia.zip |
+| The Curse of Issyos | https://www.locomalito.com/juegos/Curse_of_Issyos.zip |
+| Verminest | https://www.locomalito.com/juegos/Verminest.zip |
+| Verminian Trap | https://www.locomalito.com/juegos/Verminian_Trap_1_1.zip |
 | Viriax | |
+| Warzone 2100 | https://sourceforge.net/projects/warzone2100 |
 | Zneik | |
 
 
@@ -60,32 +67,13 @@ If you wish to compile yourself any of the program listed, please refer to them 
 
 -  (English version with French subtitles) 
 		under a freeware license distributed under authorization on the ScummVM project website)
-	=> <https://www.scummvm.org/frs/extras/Broken%20Sword%202.5/sword25-v1.0.zip>
+	=> <>
 - Drascula (French version under freeware license distributed under authorization on the ScummVM project website)
-	=> <https://www.scummvm.org/frs/extras/Drascula_%20The%20Vampire%20Strikes%20Back/drascula-int-1.0.zip>
-	=> <https://www.scummvm.org/frs/extras/Drascula_%20The%20Vampire%20Strikes%20Back/drascula-audio-2.0.zip>
+	=> <>
+	=> <>
 -  (freeware version released under Creative Commons CC-BY-NC-ND license)
-	= <http://manbitesshark.com/downloads.html>
+	= <>
 	
-
-Version 3 (26/01/2020)
-
-* Games *	
-
-- Dreamweb (French version under freeware license distributed under authorization on the ScummVM project website)
-	=> <https://www.scummvm.org/frs/extras/Dreamweb/dreamweb-cd-fr-1.1.zip>
-
-- FreeDoom Phase 1&2 (version 0.12.1) 
-	=> <https://github.com/freedoom/freedoom/releases/download/v0.12.1/freedoom-0.12.1.zip>
-
-- Hacx: Twitch 'n Kill (freeware version published on the Nostromo website)
-	=> http://www.drnostromo.com/hacx/files/hacx12.zip
-
-- Mindustry (version released under the free license GPL 3.0)
-	=> <https://github.com/Anuken/Mindustry>
-
-- Warzone 2100 (version released under the free GPL 3.0 license)
-	=> <https://sourceforge.net/projects/warzone2100>
 
 Version 2 (26/10/2019)
 
@@ -93,37 +81,37 @@ Version 2 (26/10/2019)
 
 The games of the independent game designer Locomalito (thanks to him!)
 -  (freeware version released under Creative Commons CC-BY-NC-ND license)
-	=> <https://www.locomalito.com/juegos/8bit_killer.zip>
+	=> <>
 -  (freeware version released under Creative Commons CC-BY-NC-ND license)
-	=> <https://www.locomalito.com/juegos/Blokanoid.zip>
+	=> <>
 -  (freeware version released under Creative Commons CC-BY-NC-ND license)
-	=> <https://www.locomalito.com/juegos/Darkula.zip
+	=> <
 -  (freeware version released under Creative Commons CC-BY-NC-ND license)
-	=> <https://www.locomalito.com/juegos/EFMB.zip
+	=> <
 -  (freeware version released under Creative Commons CC-BY-NC-ND license)
-	=> <https://www.locomalito.com/juegos/Game_Jam.zip>
+	=> <>
 -  (freeware version released under Creative Commons CC-BY-NC-ND license)
-	=> <https://www.locomalito.com/juegos/Gaurodan_1_1.zip
+	=> <
 -  (freeware version released under Creative Commons CC-BY-NC-ND license)
-	=> <https://www.locomalito.com/juegos/Gort_Ultimatum.zip>
+	=> <>
 -  (freeware version released under Creative Commons CC-BY-NC-ND license)
-	=> <https://www.locomalito.com/juegos/Hydorah_1_1.zip>
+	=> <>
 -  (freeware version released under Creative Commons CC-BY-NC-ND license)
-	=> <https://www.locomalito.com/juegos/Abbaye_des_morts_1_2.zip>
+	=> <>
 -  (freeware version released under Creative Commons CC-BY-NC-ND license)
-	=> <https://www.locomalito.com/juegos/Maldita_Castilla_1_1.zip>
+	=> <>
 -  (freeware version released under Creative Commons CC-BY-NC-ND license)
-	=> <https://www.locomalito.com/juegos/Maniac_Aracs.zip>
+	=> <>
 -  (freeware version released under Creative Commons CC-BY-NC-ND license)
-	=> <https://www.locomalito.com/juegos/RedSpheres.zip
+	=> <
 -  (freeware version released under Creative Commons CC-BY-NC-ND license)
-	=> <https://www.locomalito.com/juegos/Super_Ninja_Julia.zip>
+	=> <>
 -  (freeware version released under Creative Commons CC-BY-NC-ND license)
-	=> <https://www.locomalito.com/juegos/Curse_of_Issyos.zip>
+	=> <>
 -  (freeware version released under Creative Commons CC-BY-NC-ND license)
-	=> <https://www.locomalito.com/juegos/Verminest.zip>
+	=> <>
 -  (freeware version released under Creative Commons CC-BY-NC-ND license)
-	=> <https://www.locomalito.com/juegos/Verminian_Trap_1_1.zip>
+	=> <>
 -  (freeware version released under Creative Commons CC-BY-NC-ND license)
 	=> <https://www.locomalito.com/juegos/Viriax_1_1.zip>
 -  (freeware version released under Creative Commons CC-BY-NC-ND license)
