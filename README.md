@@ -23,25 +23,22 @@ If you wish to compile yourself any of the program listed, please refer to them 
 The following software and games need to be download and install in the directory.
 
 | SOFTWARE | WHERE TO INSTALL|
-| ------  | --------------- |
-| [Attract-Mode 32 bits] (https://github.com/mickelson/attract/releases/download/v2.6.1/attract-v2.6.1-win32.zip) | C:/AttractMode
-| or [Attract-Mode 64 bits] (https://github.com/mickelson/attract/releases/download/v2.6.1/attract-v2.6.1-win64.zip) | C:/AttractMode
+| ------  | ------  |
+| [Attract-Mode 32 bits](https://github.com/mickelson/attract/releases/download/v2.6.1/attract-v2.6.1-win32.zip) or [Attract-Mode 64 bits](https://github.com/mickelson/attract/releases/download/v2.6.1/attract-v2.6.1-win64.zip) | C:/AttractMode
 | [ArcadeBliss – Info Overload Edition (layout)](ADD RELEASE LINK) | C:/AttractMode\layouts
 | [Chromatic (layout)](ADD RELEASE LINK) | C:/AttractMode\layouts
 | [Crispy Doom](http://latest.chocolate-doom.org/) |C:/AttractMode
-| [ScummVM 32 bits](https://www.scummvm.org/frs/scummvm/2.1.2/scummvm-2.1.2-win32.zip) | C:/AttractMode
-| or [ScummVM 64 bits](https://www.scummvm.org/frs/scummvm/2.1.2/scummvm-2.1.2-win32-x86_64.zip) | C:/AttractMode
-| [Sumatra PDF 32 bits](https://www.sumatrapdfreader.org/dl2/SumatraPDF-3.2.zip) | C:/AttractMode
-| or [Sumatra PDF 64 bits](https://www.sumatrapdfreader.org/dl2/SumatraPDF-3.2-64.zip) | C:/AttractMode
+| [ScummVM 32 bits](https://www.scummvm.org/frs/scummvm/2.1.2/scummvm-2.1.2-win32.zip) or [ScummVM 64 bits](https://www.scummvm.org/frs/scummvm/2.1.2/scummvm-2.1.2-win32-x86_64.zip) | C:/AttractMode
+| [Sumatra PDF 32 bits](https://www.sumatrapdfreader.org/dl2/SumatraPDF-3.2.zip) or [Sumatra PDF 64 bits](https://www.sumatrapdfreader.org/dl2/SumatraPDF-3.2-64.zip) | C:/AttractMode
 | [SumatraPDF WIP plugin for AttractMode](http://forum.attractmode.org/index.php?action=dlattach;topic=1927.0;attach=2055) - Registration needed | C:/AttractMode
 
 | VIDEO CONTENT | SOURCE | WHERE TO INSTALL|
 | ------ | ------ | --------------- |
 
 
-| GAMES | SOURCE | WHERE TO INSTALL|
-| ------ | ------ | --------------- |
-| 8bit Killer | https://www.locomalito.com/juegos/8bit_killer.zip | C:\AttractMode\emulators
+| GAMES | WHERE TO INSTALL|
+| ------ | --------------- |
+| [8bit Killer](https://www.locomalito.com/juegos/8bit_killer.zip) | C:\AttractMode\emulators
 | Battle for Wesnoth | https://portableapps.com/apps/games/wesnoth_portable | C:\AttractMode\emulators
 | Beneath a Steel Sky | https://www.scummvm.org/frs/extras/Beneath%20a%20Steel%20Sky/bass-cd-1.2.zip | C:\AttractMode\emulators
 | Blokanoid | https://www.locomalito.com/juegos/Blokanoid.zip | C:\AttractMode\emulators
