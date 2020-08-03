@@ -21,9 +21,10 @@ If you wish to compile yourself any of the program listed, please refer to them 
 
 | SOFTWARE | SOURCE | WHERE TO INSTALL|
 | ------ | ------ | --------------- |
-| Attract-Mode | | A
-| A modified version of ArcadeBliss |  |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
+| Attract-Mode | https://github.com/mickelson/attract/releases/download/v2.6.1/attract-v2.6.1-win32.zip |
+|		 |https://github.com/mickelson/attract/releases/download/v2.6.1/attract-v2.6.1-win64.zip |
+| Attract-Mode A modified version of ArcadeBliss (layout) |  |
+| Attract-Mode A modified version of Chromatic (layout) | [plugins/googledrive/README.md][PlGd] |
 | Crispy Doom | [plugins/onedrive/README.md][PlOd] |
 | ScummVM | [plugins/medium/README.md][PlMe] |
 | Sumatra PDF | [plugins/googleanalytics/README.md][PlGa] |
@@ -32,7 +33,7 @@ If you wish to compile yourself any of the program listed, please refer to them 
 | GAMES | SOURCE | WHERE TO INSTALL|
 | ------ | ------ | --------------- |
 | 8bit Killer | https://www.locomalito.com/juegos/8bit_killer.zip |
-| Battle for Wesnoth | |
+| Battle for Wesnoth | https://portableapps.com/apps/games/wesnoth_portable |
 | Beneath a Steel Sky | |
 | Blokanoid | https://www.locomalito.com/juegos/Blokanoid.zip |
 | Broken Sword 2.5 - The Return of the Knights of the Temple | https://www.scummvm.org/frs/extras/Broken%20Sword%202.5/sword25-v1.0.zip |
@@ -57,83 +58,10 @@ If you wish to compile yourself any of the program listed, please refer to them 
 | The Curse of Issyos | https://www.locomalito.com/juegos/Curse_of_Issyos.zip |
 | Verminest | https://www.locomalito.com/juegos/Verminest.zip |
 | Verminian Trap | https://www.locomalito.com/juegos/Verminian_Trap_1_1.zip |
-| Viriax | |
+| Viriax | https://www.locomalito.com/juegos/Viriax_1_1.zip |
 | Warzone 2100 | https://sourceforge.net/projects/warzone2100 |
-| Zneik | |
+| Zneik | https://www.locomalito.com/juegos/Zneik.zip |
 
-
--  (French version in PortableApps format released under the free GPL 2.0 license)
-	=> <https://portableapps.com/apps/games/wesnoth_portable>
-
--  (English version with French subtitles) 
-		under a freeware license distributed under authorization on the ScummVM project website)
-	=> <>
-- Drascula (French version under freeware license distributed under authorization on the ScummVM project website)
-	=> <>
-	=> <>
--  (freeware version released under Creative Commons CC-BY-NC-ND license)
-	= <>
-	
-
-Version 2 (26/10/2019)
-
-* Games *
-
-The games of the independent game designer Locomalito (thanks to him!)
--  (freeware version released under Creative Commons CC-BY-NC-ND license)
-	=> <>
--  (freeware version released under Creative Commons CC-BY-NC-ND license)
-	=> <>
--  (freeware version released under Creative Commons CC-BY-NC-ND license)
-	=> <
--  (freeware version released under Creative Commons CC-BY-NC-ND license)
-	=> <
--  (freeware version released under Creative Commons CC-BY-NC-ND license)
-	=> <>
--  (freeware version released under Creative Commons CC-BY-NC-ND license)
-	=> <
--  (freeware version released under Creative Commons CC-BY-NC-ND license)
-	=> <>
--  (freeware version released under Creative Commons CC-BY-NC-ND license)
-	=> <>
--  (freeware version released under Creative Commons CC-BY-NC-ND license)
-	=> <>
--  (freeware version released under Creative Commons CC-BY-NC-ND license)
-	=> <>
--  (freeware version released under Creative Commons CC-BY-NC-ND license)
-	=> <>
--  (freeware version released under Creative Commons CC-BY-NC-ND license)
-	=> <
--  (freeware version released under Creative Commons CC-BY-NC-ND license)
-	=> <>
--  (freeware version released under Creative Commons CC-BY-NC-ND license)
-	=> <>
--  (freeware version released under Creative Commons CC-BY-NC-ND license)
-	=> <>
--  (freeware version released under Creative Commons CC-BY-NC-ND license)
-	=> <>
--  (freeware version released under Creative Commons CC-BY-NC-ND license)
-	=> <https://www.locomalito.com/juegos/Viriax_1_1.zip>
--  (freeware version released under Creative Commons CC-BY-NC-ND license)
-	=> <https://www.locomalito.com/juegos/Zneik.zip>
-	
-- FreeDoom Phase 1&2 (version 0.12.0) 
-	=> <https://github.com/freedoom/freedoom/releases/download/v0.12.0/freedoom-0.12.0.zip>
-
-Version 1 (18/08/2019) :
-
-* Emulators and Utilities *
-- Attract Mode 2.4.0.0 ;
-- ScummVM Portable 1.7.0.0 ;
-- Crispy Doom 5.5.2.0 ;
-- Sumatra PDF 3.1.2.
-
-* Interfaces for Attract Mode (layouts) *
--  ;
-- A modified version of Cools.
-
-* Games *
-- Flight of the Amazon Queen (French version under
 
 ### Precompiled Binaries (for Windows)
 
