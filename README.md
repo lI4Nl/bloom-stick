@@ -21,45 +21,52 @@ If you wish to compile yourself any of the program listed, please refer to them 
 
 | SOFTWARE | SOURCE | WHERE TO INSTALL|
 | ------ | ------ | --------------- |
-| Attract-Mode | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
+| Attract-Mode | | A
+| A modified version of ArcadeBliss |  |
 | Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+| Crispy Doom | [plugins/onedrive/README.md][PlOd] |
+| ScummVM | [plugins/medium/README.md][PlMe] |
+| Sumatra PDF | [plugins/googleanalytics/README.md][PlGa] |
 
 
 | GAMES | SOURCE | WHERE TO INSTALL|
 | ------ | ------ | --------------- |
-| Attract-Mode | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+| 8bit Killer | |
+| Battle for Wesnoth | |
+| Beneath a Steel Sky | |
+| Broken Sword 2.5 - The Return of the Knights of the Temple |
+| Blokanoid |  |
+| Darkula | |
+| Endless Forms Most Beautiful | ] |
+| Game Ja| Gort Ultimatum |m |  |
+| Gaurodan |  |
+| Gort Ultimatum | |
+| Hydorah | |
+| L'Abbaye des Morts | |
+| Maldita Castilla | |
+| Maniac Aracs | |
+| Redspheres | ||
+| REKKR | ||
+| Super Ninja Julia | |
+| The Curse of Issyos | |
+| Verminest | |
+| Verminian Trap | |
+| Viriax | |
+| Zneik | |
 
-TO BE COMPLETED
 
-* Games
-
-- Beneath a Steel Sky now works in French version (identical version to the previous one)
-
-- Battle for Wesnoth (French version in PortableApps format released under the free GPL 2.0 license)
+-  (French version in PortableApps format released under the free GPL 2.0 license)
 	=> <https://portableapps.com/apps/games/wesnoth_portable>
 
-- Broken Sword 2.5 - The Return of the Knights of the Temple (English version with French subtitles) 
+-  (English version with French subtitles) 
 		under a freeware license distributed under authorization on the ScummVM project website)
 	=> <https://www.scummvm.org/frs/extras/Broken%20Sword%202.5/sword25-v1.0.zip>
 - Drascula (French version under freeware license distributed under authorization on the ScummVM project website)
 	=> <https://www.scummvm.org/frs/extras/Drascula_%20The%20Vampire%20Strikes%20Back/drascula-int-1.0.zip>
 	=> <https://www.scummvm.org/frs/extras/Drascula_%20The%20Vampire%20Strikes%20Back/drascula-audio-2.0.zip>
-- REKKR (freeware version released under Creative Commons CC-BY-NC-ND license)
+-  (freeware version released under Creative Commons CC-BY-NC-ND license)
 	= <http://manbitesshark.com/downloads.html>
 	
-* Emulators and Utilities *
-- A modified version of Chromatic, replacing Cools
-- Crispy Doom 5.8.0.0
-- ScummVM 2.1.2.0 now replaces the old version of ScummVM Portable
 
 Version 3 (26/01/2020)
 
@@ -85,41 +92,41 @@ Version 2 (26/10/2019)
 * Games *
 
 The games of the independent game designer Locomalito (thanks to him!)
-- 8bit Killer (freeware version released under Creative Commons CC-BY-NC-ND license)
+-  (freeware version released under Creative Commons CC-BY-NC-ND license)
 	=> <https://www.locomalito.com/juegos/8bit_killer.zip>
-- Blokanoid (freeware version released under Creative Commons CC-BY-NC-ND license)
+-  (freeware version released under Creative Commons CC-BY-NC-ND license)
 	=> <https://www.locomalito.com/juegos/Blokanoid.zip>
-- Darkula (freeware version released under Creative Commons CC-BY-NC-ND license)
+-  (freeware version released under Creative Commons CC-BY-NC-ND license)
 	=> <https://www.locomalito.com/juegos/Darkula.zip
-- Endless Forms Most Beautiful (freeware version released under Creative Commons CC-BY-NC-ND license)
+-  (freeware version released under Creative Commons CC-BY-NC-ND license)
 	=> <https://www.locomalito.com/juegos/EFMB.zip
-- Game Jam (freeware version released under Creative Commons CC-BY-NC-ND license)
+-  (freeware version released under Creative Commons CC-BY-NC-ND license)
 	=> <https://www.locomalito.com/juegos/Game_Jam.zip>
-- Gaurodan (freeware version released under Creative Commons CC-BY-NC-ND license)
+-  (freeware version released under Creative Commons CC-BY-NC-ND license)
 	=> <https://www.locomalito.com/juegos/Gaurodan_1_1.zip
-- Gort Ultimatum (freeware version released under Creative Commons CC-BY-NC-ND license)
+-  (freeware version released under Creative Commons CC-BY-NC-ND license)
 	=> <https://www.locomalito.com/juegos/Gort_Ultimatum.zip>
-- Hydorah (freeware version released under Creative Commons CC-BY-NC-ND license)
+-  (freeware version released under Creative Commons CC-BY-NC-ND license)
 	=> <https://www.locomalito.com/juegos/Hydorah_1_1.zip>
-- L'Abbaye des Morts (freeware version released under Creative Commons CC-BY-NC-ND license)
+-  (freeware version released under Creative Commons CC-BY-NC-ND license)
 	=> <https://www.locomalito.com/juegos/Abbaye_des_morts_1_2.zip>
-- Maldita Castilla (freeware version released under Creative Commons CC-BY-NC-ND license)
+-  (freeware version released under Creative Commons CC-BY-NC-ND license)
 	=> <https://www.locomalito.com/juegos/Maldita_Castilla_1_1.zip>
-- Maniac Aracs (freeware version released under Creative Commons CC-BY-NC-ND license)
+-  (freeware version released under Creative Commons CC-BY-NC-ND license)
 	=> <https://www.locomalito.com/juegos/Maniac_Aracs.zip>
-- Redspheres (freeware version released under Creative Commons CC-BY-NC-ND license)
+-  (freeware version released under Creative Commons CC-BY-NC-ND license)
 	=> <https://www.locomalito.com/juegos/RedSpheres.zip
-- Super Ninja Julia (freeware version released under Creative Commons CC-BY-NC-ND license)
+-  (freeware version released under Creative Commons CC-BY-NC-ND license)
 	=> <https://www.locomalito.com/juegos/Super_Ninja_Julia.zip>
-- The Curse of Issyos (freeware version released under Creative Commons CC-BY-NC-ND license)
+-  (freeware version released under Creative Commons CC-BY-NC-ND license)
 	=> <https://www.locomalito.com/juegos/Curse_of_Issyos.zip>
-- Verminest (freeware version released under Creative Commons CC-BY-NC-ND license)
+-  (freeware version released under Creative Commons CC-BY-NC-ND license)
 	=> <https://www.locomalito.com/juegos/Verminest.zip>
-- Verminian Trap (freeware version released under Creative Commons CC-BY-NC-ND license)
+-  (freeware version released under Creative Commons CC-BY-NC-ND license)
 	=> <https://www.locomalito.com/juegos/Verminian_Trap_1_1.zip>
-- Viriax (freeware version released under Creative Commons CC-BY-NC-ND license)
+-  (freeware version released under Creative Commons CC-BY-NC-ND license)
 	=> <https://www.locomalito.com/juegos/Viriax_1_1.zip>
-- Zneik (freeware version released under Creative Commons CC-BY-NC-ND license)
+-  (freeware version released under Creative Commons CC-BY-NC-ND license)
 	=> <https://www.locomalito.com/juegos/Zneik.zip>
 	
 - FreeDoom Phase 1&2 (version 0.12.0) 
@@ -134,7 +141,7 @@ Version 1 (18/08/2019) :
 - Sumatra PDF 3.1.2.
 
 * Interfaces for Attract Mode (layouts) *
-- A modified version of ArcadeBliss ;
+-  ;
 - A modified version of Cools.
 
 * Games *
