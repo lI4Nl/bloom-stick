@@ -31,9 +31,11 @@ If you wish to compile yourself any of the program listed, please refer to the s
 | [Sumatra PDF 32 bits](https://www.sumatrapdfreader.org/dl2/SumatraPDF-3.2.zip) or [Sumatra PDF 64 bits](https://www.sumatrapdfreader.org/dl2/SumatraPDF-3.2-64.zip) | C:\AttractMode\plugins\SumatraPDF
 | [SumatraPDF WIP plugin for AttractMode](http://forum.attractmode.org/index.php?action=dlattach;topic=1927.0;attach=2055) - Registration needed | C:\AttractMode\plugins\SumatraPDF
 
-| ADDITIONNAL MATERIAL | WHERE TO INSTALL |
-| ------ | --------------- |
-| [Intro.mp4](http://www.mediafire.com/file/uqh2zkhzc5340vy/Intro.mp4/file) (can be any video of your choice)| C:\AttractMode\intro
+| ADDITIONNAL MATERIAL | WHERE TO INSTALL|
+| ------ | ------  |
+| [Intro.mp4](http://www.mediafire.com/file/uqh2zkhzc5340vy/Intro.mp4/file)| C:\AttractMode\intro
+| Video loop (ADD LINK on Mediafire) | C:\AttractMode\menu-art\snap\
+| Exit.png (ADD RELEASE LINK) | C:\AttractMode\menu-art\wheel\ 
 
 | GAMES | WHERE TO INSTALL|
 | ------ | --------------- |
