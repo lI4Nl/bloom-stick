@@ -34,8 +34,9 @@ If you wish to compile yourself any of the program listed, please refer to the s
 | ADDITIONNAL MATERIAL | WHERE TO INSTALL|
 | ------ | ------  |
 | [Intro.mp4](http://www.mediafire.com/file/uqh2zkhzc5340vy/Intro.mp4/file)| C:\AttractMode\intro
-| Video loop (ADD LINK on Mediafire) | C:\AttractMode\menu-art\snap\
-| Exit.png (ADD RELEASE LINK) | C:\AttractMode\menu-art\wheel\ 
+| Video loop (ADD LINK on Mediafire) | C:\AttractMode\menu-art\snap
+| Exit.png (ADD RELEASE LINK) | C:\AttractMode\menu-art\wheel
+| Screenshots (for the games) | C:\AttractMode\scraper\
 
 | GAMES | WHERE TO INSTALL|
 | ------ | --------------- |
@@ -149,7 +150,7 @@ We wish to thank all the authors that made the Bloom Stick project possible:
 
 ## Licence
 
-Due to the multiplicity of licenses included in the project, Bloom Stick is non-profit, without any commercial purpose or affiliation with their respective rights holders. The project and the games that make it up cannot be sold or commercially distributed without the prior agreement of their authors.
+Due to the multiplicity of licenses included in the project, Bloom Stick is non-profit, without any commercial purpose or affiliation with their respective rights holders. The project and the included games cannot be sold or commercially distributed without the prior agreement of their authors.
 
 Unless otherwise stated, the company names, logos, images, videos and trademarks cited on are the respective property of their authors and appear for information purposes.The use of Bloom Stick does not in any way grant a license or right to use any of these elements, and may not be used for any purpose other than that provided for by the individual licenses that compose it.
 
