@@ -1,4 +1,4 @@
-[![N|Solid](https://cercledujeuvideo.org/wp-content/uploads/2019/02/Bloom-Stick-Logo-280x280.png)](https://cercledujeuvideo.org/bloom-stick/)
+[![N|Solid](https://github.com/lI4Nl/bloom-stick/blob/master/Bloom%20Stick%20Header.png)](https://cercledujeuvideo.org/bloom-stick/)
 # Bloom Stick
 [![](https://img.shields.io/badge/dynamic/json?color=blue&label=%40Bloom_Stick&query=data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtwitter%26queryKey%3Dbloom_stick&logo=twitter)](https://twitter.com/bloom_stick)
 
