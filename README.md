@@ -45,7 +45,7 @@ If you wish to compile yourself any of the program listed, please refer to the s
 | [Beneath a Steel Sky](https://www.scummvm.org/frs/extras/Beneath%20a%20Steel%20Sky/bass-cd-1.2.zip) | C:\AttractMode\emulators\ScummVM\Games\sky
 | [Blokanoid](https://www.locomalito.com/juegos/Blokanoid.zip) | C:\AttractMode\emulators\Locomalito\Blokanoid
 | [Broken Sword 2.5 - The Return of the Knights of the Temple](https://www.scummvm.org/frs/extras/Broken%20Sword%202.5/sword25-v1.0.zip) | C:\AttractMode\emulators\ScummVM\Games\sword25
-| [The Curse of Issyos](https://locomalito.com/juegos/Curse_of_Issyos.zip)  C:\AttractMode\emulators\Locomalito\Curse_of_issyos
+| [The Curse of Issyos](https://locomalito.com/juegos/Curse_of_Issyos.zip) | C:\AttractMode\emulators\Locomalito\Curse_of_issyos
 | [Darkula](https://www.locomalito.com/juegos/Darkula.zip) | C:\AttractMode\emulators\Locomalito\Darkula
 | [Dráscula: The Vampire Strikes Back](https://www.scummvm.org/frs/extras/Drascula_%20The%20Vampire%20Strikes%20Back/drascula-int-1.0.zip) | C:\AttractMode\emulators\ScummVM\Games\drascula
 | [Dreamweb](https://www.scummvm.org/frs/extras/Dreamweb/dreamweb-cd-fr-1.1.zip) | C:\AttractMode\emulators\ScummVM\Games\dreamweb
