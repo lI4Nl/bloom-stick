@@ -1,5 +1,6 @@
 [![N|Solid](https://cercledujeuvideo.org/wp-content/uploads/2019/02/Bloom-Stick-Logo-280x280.png)](https://cercledujeuvideo.org/bloom-stick/)
 # Bloom Stick
+[![](https://img.shields.io/badge/dynamic/json?color=blue&label=%40Bloom_Stick&query=data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtwitter%26queryKey%3Dbloom_stick&logo=twitter)](https://twitter.com/bloom_stick)
 
 The Bloom Stick project is built around the [Attract-Mode](http://attractmode.org/) software by Andrew Mickelson, distributed under license under the terms of the GNU General Public License v3 or later.
 
@@ -20,7 +21,7 @@ If you wish to compile yourself any of the program listed, please refer to them 
 
 ### Custom Build (for Windows)
 
-The following software and games need to be download and install in the directory.
+The following software and games are part of the Bloom Stick so far
 
 | SOFTWARE | WHERE TO INSTALL|
 | ------  | ------  |
@@ -38,7 +39,7 @@ The following software and games need to be download and install in the director
 
 | GAMES | WHERE TO INSTALL|
 | ------ | --------------- |
-| [8bit Killer](://www.locomalito.com/juegos/8bit_killer.zip) | C:\AttractMode\emulators
+| [8bit Killer](https:://www.locomalito.com/juegos/8bit_killer.zip) | C:\AttractMode\emulators
 | [Battle for Wesnoth](https://portableapps.com/apps/games/wesnoth_portable) | C:\AttractMode\emulators
 | [Beneath a Steel Sky](https://www.scummvm.org/frs/extras/Beneath%20a%20Steel%20Sky/bass-cd-1.2.zip) | C:\AttractMode\emulators
 | [Blokanoid](https://www.locomalito.com/juegos/Blokanoid.zip) | C:\AttractMode\emulators
@@ -106,7 +107,7 @@ For more details regarding the features and games added with the different versi
 
 The Bloom Stick project was created by I4ᥢ.
 
-Bloom Stick is also supported by the French association [Le Cercle du Jeu Vidéo](https://cercledujeuvideo.org/bloom-stick/).
+Bloom Stick is also supported by the French association [Le Cercle du Jeu Video](https://cercledujeuvideo.org/bloom-stick/).
 
 We wish to thank all the authors that made the Bloom Stick project possible:
 
@@ -152,6 +153,6 @@ Due to the multiplicity of licenses included in the project, Bloom Stick is non-
 
 Unless otherwise stated, the company names, logos, images, videos and trademarks cited on are the respective property of their authors and appear for information purposes.The use of Bloom Stick does not in any way grant a license or right to use any of these elements, and may not be used for any purpose other than that provided for by the individual licenses that compose it.
 
-Failure to comply with these provisions exposes the offender to legal action.
+Failure to comply with these provisions exposes the offender to legal actions.
 
 For the details of each games and program licences see the [BSLICENCE.md](https://github.com/lI4Nl/bloom-stick/blob/master/LICENCE/BSLICENCE.md).
