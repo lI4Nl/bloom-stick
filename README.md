@@ -40,34 +40,35 @@ If you wish to compile yourself any of the program listed, please refer to the s
 
 | GAMES | WHERE TO INSTALL|
 | ------ | --------------- |
-| [8bit Killer](https:://www.locomalito.com/juegos/8bit_killer.zip) | C:\AttractMode\emulators\Locomalito
-| [Battle for Wesnoth](https://portableapps.com/apps/games/wesnoth_portable) | C:\AttractMode\emulators\Strategie
-| [Beneath a Steel Sky](https://www.scummvm.org/frs/extras/Beneath%20a%20Steel%20Sky/bass-cd-1.2.zip) | C:\AttractMode\emulators\ScummVM\Games
-| [Blokanoid](https://www.locomalito.com/juegos/Blokanoid.zip) | C:\AttractMode\emulators\Locomalito
-| [Broken Sword 2.5 - The Return of the Knights of the Temple](https://www.scummvm.org/frs/extras/Broken%20Sword%202.5/sword25-v1.0.zip) | C:\AttractMode\emulators\ScummVM\Games
-| [Darkula](https://www.locomalito.com/juegos/Darkula.zip) | C:\AttractMode\emulators\Locomalito
-| [Dráscula: The Vampire Strikes Back](https://www.scummvm.org/frs/extras/Drascula_%20The%20Vampire%20Strikes%20Back/drascula-int-1.0.zip) | C:\AttractMode\emulators\ScummVM\Games
-| [Dreamweb](https://www.scummvm.org/frs/extras/Dreamweb/dreamweb-cd-fr-1.1.zip) | C:\AttractMode\emulators\ScummVM\Games
+| [8bit Killer](https:://www.locomalito.com/juegos/8bit_killer.zip) | C:\AttractMode\emulators\Locomalito\8bit_killer
+| [Battle for Wesnoth](https://portableapps.com/apps/games/wesnoth_portable) | C:\AttractMode\emulators\Strategie\battleforwesnoth
+| [Beneath a Steel Sky](https://www.scummvm.org/frs/extras/Beneath%20a%20Steel%20Sky/bass-cd-1.2.zip) | C:\AttractMode\emulators\ScummVM\Games\sky
+| [Blokanoid](https://www.locomalito.com/juegos/Blokanoid.zip) | C:\AttractMode\emulators\Locomalito\Blokanoid
+| [Broken Sword 2.5 - The Return of the Knights of the Temple](https://www.scummvm.org/frs/extras/Broken%20Sword%202.5/sword25-v1.0.zip) | C:\AttractMode\emulators\ScummVM\Games\sword25
+| [The Curse of Issyos](https://locomalito.com/juegos/Curse_of_Issyos.zip)  C:\AttractMode\emulators\Locomalito\Curse_of_issyos
+| [Darkula](https://www.locomalito.com/juegos/Darkula.zip) | C:\AttractMode\emulators\Locomalito\Darkula
+| [Dráscula: The Vampire Strikes Back](https://www.scummvm.org/frs/extras/Drascula_%20The%20Vampire%20Strikes%20Back/drascula-int-1.0.zip) | C:\AttractMode\emulators\ScummVM\Games\drascula
+| [Dreamweb](https://www.scummvm.org/frs/extras/Dreamweb/dreamweb-cd-fr-1.1.zip) | C:\AttractMode\emulators\ScummVM\Games\dreamweb
 | [Endless Forms Most Beautiful](https://www.locomalito.com/juegos/EFMB.zip) | C:\AttractMode\emulators\Locomalito
 | [FreeDoom Phase 1&2](https://github.com/freedoom/freedoom/releases) | C:\AttractMode\emulators\FreeDoom\DATA
-| [Game Jam](https://www.locomalito.com/juegos/Game_Jam.zip) | C:\AttractMode\emulators\Locomalito
-| [Gaurodan](https://www.locomalito.com/juegos/Gaurodan_1_1.zip)  | C:\AttractMode\emulators\Locomalito
-| [Gort Ultimatum](https://www.locomalito.com/juegos/Gort_Ultimatum.zip) | C:\AttractMode\emulators\Locomalito
+| [Game Jam](https://www.locomalito.com/juegos/Game_Jam.zip) | C:\AttractMode\emulators\Locomalito\Game_jam
+| [Gaurodan](https://www.locomalito.com/juegos/Gaurodan_1_1.zip)  | C:\AttractMode\emulators\Locomalito\Gaurodan_1_1
+| [Gort Ultimatum](https://www.locomalito.com/juegos/Gort_Ultimatum.zip) | CC:\AttractMode\emulators\Locomalito\Gort_Ultimatum
 | [Hacx: Twitch 'n Kill](http://www.drnostromo.com/hacx/files/hacx12.zip) | C:\AttractMode\emulators\FreeDoom\DATA
-| [Hydorah](https://www.locomalito.com/juegos/Hydorah_1_1.zip) | C:\AttractMode\emulators\Locomalito
-| [L'Abbaye des Morts](https://www.locomalito.com/juegos/Abbaye_des_morts_1_2.zip) | C:\AttractMode\emulators\Locomalito
-| [Maldita Castilla](https://www.locomalito.com/juegos/Maldita_Castilla_1_1.zip) | C:\AttractMode\emulators\Locomalito
+| [Hydorah](https://www.locomalito.com/juegos/Hydorah_1_1.zip) | C:\AttractMode\emulators\Locomalito\Hydorah_1_1
+| [L'Abbaye des Morts](https://www.locomalito.com/juegos/Abbaye_des_morts_1_2.zip) | C:\AttractMode\emulators\Locomalito\Abbaye_des_morts_1_2
+| [Maldita Castilla](https://www.locomalito.com/juegos/Maldita_Castilla_1_1.zip) | C:\AttractMode\emulators\Locomalito\Maldita_Castilla_1_1
 | [Maniac Aracs](https://www.locomalito.com/juegos/Maniac_Aracs.zip) | C:\AttractMode\emulators\Locomalito
-| [Mindustry](https://github.com/Anuken/Mindustry) | C:\AttractMode\emulators\Strategie
-| [Redspheres](https://www.locomalito.com/juegos/RedSpheres.zip) | C:\AttractMode\emulators\Locomalito
+| [Mindustry](https://github.com/Anuken/Mindustry) | C:\AttractMode\emulators\Strategie\Mindustry
+| [Redspheres](https://www.locomalito.com/juegos/RedSpheres.zip) | C:\AttractMode\emulators\Locomalito\RedSpheres
 | [REKKR](http://manbitesshark.com/downloads.html) | C:\AttractMode\emulators\FreeDoom\DATA
-| [Super Ninja Julia](https://www.locomalito.com/juegos/Super_Ninja_Julia.zip) | C:\AttractMode\emulators\Locomalito
-| [The Curse of Issyos](https://www.locomalito.com/juegos/Curse_of_Issyos.zip) | CC:\AttractMode\emulators\Locomalito
-| [Verminest](https://www.locomalito.com/juegos/Verminest.zip) | C:\AttractMode\emulators\Locomalito
-| [Verminian Trap](https://www.locomalito.com/juegos/Verminian_Trap_1_1.zip) | C:\AttractMode\emulators\Locomalito
-| [Viriax](https://www.locomalito.com/juegos/Viriax_1_1.zip) | C:\AttractMode\emulators\Locomalito
-| [Warzone 2100](https://sourceforge.net/projects/warzone2100) | C:\AttractMode\emulators\Strategie
-| [Zneik](https://www.locomalito.com/juegos/Zneik.zip) | C:\AttractMode\emulators\Locomalito
+| [Super Ninja Julia](https://www.locomalito.com/juegos/Super_Ninja_Julia.zip) | C:\AttractMode\emulators\Locomalito\Super_Ninja_Julia
+| [The Curse of Issyos](https://www.locomalito.com/juegos/Curse_of_Issyos.zip) | C:\AttractMode\emulators\Locomalito
+| [Verminest](https://www.locomalito.com/juegos/Verminest.zip) | C:\AttractMode\emulators\Locomalito\Verminest
+| [Verminian Trap](https://www.locomalito.com/juegos/Verminian_Trap_1_1.zip) | C:\AttractMode\emulators\Locomalito\Verminian_Trap_1_1
+| [Viriax](https://www.locomalito.com/juegos/Viriax_1_1.zip) | C:\AttractMode\emulators\Locomalito\Viriax_1_1
+| [Warzone 2100](https://sourceforge.net/projects/warzone2100) | C:\AttractMode\emulators\Strategie\Warzone2100
+| [Zneik](https://www.locomalito.com/juegos/Zneik.zip) | C:\AttractMode\emulators\Locomalito\Zneik
 
 ### Precompiled Binaries (for Windows)
 
