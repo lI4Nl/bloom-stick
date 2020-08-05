@@ -77,7 +77,7 @@ If you wish to compile yourself any of the program listed, please refer to the o
 
 #### Installation
 
-1. Download the archive following [at the following address](http://www.mediafire.com/folder/u8hx12xaumaj2/Bloom_Stick).
+1. Download the archive [at the following address](http://www.mediafire.com/folder/u8hx12xaumaj2/Bloom_Stick).
 
 2. Extract the archive C:/AttractMode with software like [7zip](https://www.7-zip.org/).
 
