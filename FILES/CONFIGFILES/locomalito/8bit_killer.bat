@@ -1,0 +1,1 @@
+START C:\AttractMode\emulators\Locomalito\8bit_killer\8bit_killer.exe

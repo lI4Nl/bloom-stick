@@ -1,0 +1,1 @@
+START C:\AttractMode\emulators\Locomalito\Maldita_Castilla_1_1\maldita_castilla_arcade_cabinet.exe

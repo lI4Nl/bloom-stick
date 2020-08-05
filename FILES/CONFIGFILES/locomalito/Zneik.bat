@@ -1,0 +1,1 @@
+START C:\AttractMode\emulators\Locomalito\Zneik\Zneik.exe

@@ -1,0 +1,1 @@
+START C:\AttractMode\emulators\Locomalito\Super_Ninja_Julia\Julia.exe

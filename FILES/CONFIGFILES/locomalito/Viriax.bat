@@ -1,0 +1,1 @@
+START C:\AttractMode\emulators\Locomalito\Viriax_1_1\Viriax.exe

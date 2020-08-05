@@ -1,0 +1,1 @@
+START C:\AttractMode\emulators\Locomalito\Gaurodan_1_1\Gaurodan.exe

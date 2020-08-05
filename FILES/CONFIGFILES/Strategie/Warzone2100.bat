@@ -1,0 +1,1 @@
+START C:\AttractMode\emulators\Strategie\Warzone2100\bin\Warzone2100.exe

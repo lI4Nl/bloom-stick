@@ -1,0 +1,1 @@
+START C:\AttractMode\emulators\Locomalito\Game_jam\game_jam.exe

@@ -1,0 +1,1 @@
+START C:\AttractMode\emulators\Locomalito\Maniac_Aracs\Maniac_Aracs.exe

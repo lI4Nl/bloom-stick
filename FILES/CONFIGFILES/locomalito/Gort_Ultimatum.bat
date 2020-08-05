@@ -1,0 +1,1 @@
+START C:\AttractMode\emulators\Locomalito\Gort_Ultimatum\Gort_Ultimatum.exe	

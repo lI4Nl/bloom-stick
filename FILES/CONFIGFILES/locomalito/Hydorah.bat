@@ -1,0 +1,1 @@
+START C:\AttractMode\emulators\Locomalito\Hydorah_1_1\Hydorah.exe

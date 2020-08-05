@@ -1,0 +1,1 @@
+START C:\AttractMode\emulators\Locomalito\Darkula\Darkula.exe

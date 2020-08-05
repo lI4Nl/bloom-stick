@@ -1,0 +1,1 @@
+START C:\AttractMode\emulators\Locomalito\Abbaye_des_morts_1_2\Abbaye_des_morts.exe

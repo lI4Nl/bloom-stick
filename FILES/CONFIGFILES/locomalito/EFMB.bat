@@ -1,0 +1,1 @@
+START C:\AttractMode\emulators\Locomalito\EFMB\EFMB.exe
