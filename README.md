@@ -30,14 +30,16 @@ If you wish to compile yourself any of the program listed, please refer to the o
 | [ScummVM 32 bits](https://www.scummvm.org/frs/scummvm/2.1.2/scummvm-2.1.2-win32.zip) or [ScummVM 64 bits](https://www.scummvm.org/frs/scummvm/2.1.2/scummvm-2.1.2-win32-x86_64.zip) | C:\AttractMode\emulators\ScummVM
 | [Sumatra PDF 32 bits](https://www.sumatrapdfreader.org/dl2/SumatraPDF-3.2.zip) or [Sumatra PDF 64 bits](https://www.sumatrapdfreader.org/dl2/SumatraPDF-3.2-64.zip) | C:\AttractMode\plugins\SumatraPDF
 | [SumatraPDF WIP plugin for AttractMode](http://forum.attractmode.org/index.php?action=dlattach;topic=1927.0;attach=2055) - Registration needed | C:\AttractMode\plugins\SumatraPDF
-| Configuration files (Github) | C:\AttractMode\emulators
-| Batch files (Github) | C:\AttractMode\emulators\"dedicated folders"
+| [Batch files](https://github.com/lI4Nl/bloom-stick/tree/master/FILES/CONFIGFILES) | C:\AttractMode\emulators\
+| [Configuration files) (Github) | C:\AttractMode\emulators
 
 | ADDITIONNAL MATERIAL | WHERE TO INSTALL|
 | ------ | ------  |
-| [Intro.mp4](Github)| C:\AttractMode\intro
-| Video loop (ADD LINK on Mediafire) | C:\AttractMode\menu-art\snap
-| Exit.png (Github) | C:\AttractMode\menu-art\wheel
+| [Help]() | C:\AttractMode\plugins\SumatraPDF\png
+| [Exit Icon](https://github.com/lI4Nl/bloom-stick/blob/master/FILES/exit.png) | C:\AttractMode\menu-art\wheel
+| [Game Manuals] (mediafire) | 
+| [Opening Intro Video](https://github.com/lI4Nl/bloom-stick/blob/master/FILES/Intro.mkv)| C:\AttractMode\intro
+| [Video loop] (ADD LINK on Mediafire) | C:\AttractMode\menu-art\snap
 | Screenshots/Marquee/Wheel (for the games) (Mediafire) | C:\AttractMode\scraper\
 
 | GAMES | WHERE TO INSTALL|
