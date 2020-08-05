@@ -24,8 +24,8 @@ If you wish to compile yourself any of the program listed, please refer to the o
 | SOFTWARE | WHERE TO INSTALL|
 | ------  | ------  |
 | [Attract-Mode 32 bits](https://github.com/mickelson/attract/releases/download/v2.6.1/attract-v2.6.1-win32.zip) or [Attract-Mode 64 bits](https://github.com/mickelson/attract/releases/download/v2.6.1/attract-v2.6.1-win64.zip) | C:/AttractMode
-| [ArcadeBliss – Info Overload Edition (layout)](ADD RELEASE LINK) | C:\AttractMode\layouts\ArcadeBliss
-| [Chromatic (layout)](ADD RELEASE LINK) | C:\AttractMode\layouts\Chromatic
+| [ArcadeBliss – Info Overload Edition - Modified for Bloom Stick (layout)](https://github.com/lI4Nl/bloom-stick/tree/master/FILES/layouts) | C:\AttractMode\layouts\ArcadeBliss
+| [Chromatic - Modified for Bloom Stick (layout)](https://github.com/lI4Nl/bloom-stick/tree/master/FILES/layouts) | C:\AttractMode\layouts\Chromatic
 | [Crispy Doom](http://latest.chocolate-doom.org/) |C:\AttractMode\emulators\FreeDoom
 | [ScummVM 32 bits](https://www.scummvm.org/frs/scummvm/2.1.2/scummvm-2.1.2-win32.zip) or [ScummVM 64 bits](https://www.scummvm.org/frs/scummvm/2.1.2/scummvm-2.1.2-win32-x86_64.zip) | C:\AttractMode\emulators\ScummVM
 | [Sumatra PDF 32 bits](https://www.sumatrapdfreader.org/dl2/SumatraPDF-3.2.zip) or [Sumatra PDF 64 bits](https://www.sumatrapdfreader.org/dl2/SumatraPDF-3.2-64.zip) | C:\AttractMode\plugins\SumatraPDF
@@ -106,11 +106,11 @@ To exit the game, press the RETURN button.
 
 ## Changelog
 
-For more details regarding the features and games added with the different versions of Bloom Stick, see the [CHANGELOG](https://github.com/lI4Nl/bloom-stick/blob/master/CHANGELOG.MD) page.
+For more details regarding the features and games added with the different binaries of Bloom Stick, see the [CHANGELOG](https://github.com/lI4Nl/bloom-stick/blob/master/CHANGELOG.MD) page.
 
 ## Credits
 
-The Bloom Stick project was created by I4ᥢ.
+The Bloom Stick project was created by Pierre Gourvès (I4ᥢ).
 
 Bloom Stick is also supported by the French association [Le Cercle du Jeu Video](https://cercledujeuvideo.org/bloom-stick/).
 
@@ -156,7 +156,7 @@ We wish to thank all the authors that made the Bloom Stick project possible:
 
 Due to the multiplicity of licenses included in the project, Bloom Stick is non-profit, without any commercial purpose or affiliation with their respective rights holders. The project and the included games cannot be sold or commercially distributed without the prior agreement of their authors.
 
-Unless otherwise stated, the company names, logos, images, videos and trademarks cited on are the respective property of their authors and appear for information purposes.The use of Bloom Stick does not in any way grant a license or right to use any of these elements, and may not be used for any purpose other than that provided for by the individual licenses that compose it.
+Unless otherwise stated, the company names, logos, images, videos and trademarks cited on are the respective property of their authors and appear for information purposes.The use of Bloom Stick does not in any way grant a license or right to use any of these elements, and may not be used for any purpose other than that provided for by their respective licence.
 
 Failure to comply with these provisions exposes the offender to legal actions.
 
