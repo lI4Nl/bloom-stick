@@ -116,7 +116,7 @@ We wish to thank all the authors that made the Bloom Stick project possible:
 
 * Andrew Mickelson 
 	* [AttractMode](http://attractmode.org)
-	* [Cools (layout](https://github.com/mickelson/attract/tree/master/config/layouts/Cools)
+	* [Cools (layout)](https://github.com/mickelson/attract/tree/master/config/layouts/Cools) - discontinued
 * Anuke 
 	* [Mindustry](https://github.com/Anuken/Mindustry)
 * Arcade Bliss
