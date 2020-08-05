@@ -35,7 +35,7 @@ If you wish to compile yourself any of the program listed, please refer to the o
 
 | ADDITIONNAL MATERIAL | WHERE TO INSTALL|
 | ------ | ------  |
-| [Help]() | C:\AttractMode\plugins\SumatraPDF\png
+| [Help](https://github.com/lI4Nl/bloom-stick/blob/master/FILES/Manual_not_found.png) | C:\AttractMode\plugins\SumatraPDF\png
 | [Exit Icon](https://github.com/lI4Nl/bloom-stick/blob/master/FILES/exit.png) | C:\AttractMode\menu-art\wheel
 | [Game Manuals](http://www.mediafire.com/file/rcjgq7y03ujcuy7/Manuals.7z/file) | C:\AttractMode\plugins\SumatraPDF\Manuals
 | [Opening Intro Video](https://github.com/lI4Nl/bloom-stick/blob/master/FILES/Intro.mkv)| C:\AttractMode\intro
