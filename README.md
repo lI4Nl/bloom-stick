@@ -17,7 +17,7 @@ To run the software and games in optimal conditions, Bloom Stick is tested on a 
 The Bloom Stick project is a compilation of software built around precompiled binaries of Attract-Mode, no source code modification on the different software is made. 
 (this is not the objective of the project).
 
-If you wish to compile yourself any of the program listed, please refer to the sources listed below.
+If you wish to compile yourself any of the program listed, please refer to the original sources listed below.
 
 ### Custom Build (for Windows)
 
@@ -30,13 +30,15 @@ If you wish to compile yourself any of the program listed, please refer to the s
 | [ScummVM 32 bits](https://www.scummvm.org/frs/scummvm/2.1.2/scummvm-2.1.2-win32.zip) or [ScummVM 64 bits](https://www.scummvm.org/frs/scummvm/2.1.2/scummvm-2.1.2-win32-x86_64.zip) | C:\AttractMode\emulators\ScummVM
 | [Sumatra PDF 32 bits](https://www.sumatrapdfreader.org/dl2/SumatraPDF-3.2.zip) or [Sumatra PDF 64 bits](https://www.sumatrapdfreader.org/dl2/SumatraPDF-3.2-64.zip) | C:\AttractMode\plugins\SumatraPDF
 | [SumatraPDF WIP plugin for AttractMode](http://forum.attractmode.org/index.php?action=dlattach;topic=1927.0;attach=2055) - Registration needed | C:\AttractMode\plugins\SumatraPDF
+| Configuration files (ADD RELEASE LINK) | C:\AttractMode\emulators
+| Batch files (ADD RELEASE LINK) | C:\AttractMode\emulators\"dedicated folders"
 
 | ADDITIONNAL MATERIAL | WHERE TO INSTALL|
 | ------ | ------  |
 | [Intro.mp4](http://www.mediafire.com/file/uqh2zkhzc5340vy/Intro.mp4/file)| C:\AttractMode\intro
 | Video loop (ADD LINK on Mediafire) | C:\AttractMode\menu-art\snap
 | Exit.png (ADD RELEASE LINK) | C:\AttractMode\menu-art\wheel
-| Screenshots (for the games) | C:\AttractMode\scraper\
+| Screenshots/Marquee/Wheel (for the games) (ADD RELEASE LINK) | C:\AttractMode\scraper\
 
 | GAMES | WHERE TO INSTALL|
 | ------ | --------------- |
@@ -79,7 +81,7 @@ If you wish to compile yourself any of the program listed, please refer to the s
 
 #### Start
 
-3. In C:/AttractMode, run the "attract.exe" file.
+3. In C:/AttractMode, run the "attract.exe" file (⚠the default folder shall not be modified⚠)
 
 To exit the program:
 * Press the BACK key (by default the ESC key or the RIGHT CLICK of the mouse).
