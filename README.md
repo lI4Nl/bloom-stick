@@ -77,13 +77,13 @@ If you wish to compile yourself any of the program listed, please refer to the o
 
 #### Installation
 
-1. Download the archive [at the following address](http://www.mediafire.com/folder/u8hx12xaumaj2/Bloom_Stick).
+1. Download the archive in the Release section or [at the following address](http://www.mediafire.com/folder/u8hx12xaumaj2/Bloom_Stick).
 
-2. Extract the archive C:/AttractMode with software like [7zip](https://www.7-zip.org/).
+2. Extract the archive C:\AttractMode with software like [7zip](https://www.7-zip.org/).
 
 #### Start
 
-3. In C:/AttractMode, run the "attract.exe" file (⚠the default folder shall not be modified⚠)
+3. In C:\AttractMode, run the "attract.exe" file (⚠the default folder shall not be modified⚠)
 
 To exit the program:
 * Press the BACK key (by default the ESC key or the RIGHT CLICK of the mouse).
